@@ -1,0 +1,9 @@
+[submodule "greenlife-app"]
+	path = greenlife-app
+	url = https://github.com/yannvr/greenlife-app
+[submodule "greenlifecms"]
+	path = greenlifecms
+	url = https://github.com/yannvr/greenlifecms
+[submodule "lambda-server-green-pusher"]
+	path = lambda-server-green-pusher
+	url = https://github.com/yannvr/lambda-server-green-pusher
